@@ -1,0 +1,11 @@
+{
+    "display_name": "简单按钮插件",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "AI助手",
+    "version": "1.0.0",
+    "homePage": ""
+}
